@@ -1,0 +1,15 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+  position: sticky;
+  top: 0px;
+  background-color: var(--white);
+  box-shadow: 0 3px 8px 0 rgb(116 129 141 / 10%);
+  margin-bottom: 18px;
+}
+
+.header__title{
+  color: var(--black);
+}

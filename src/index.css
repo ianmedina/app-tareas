@@ -1,0 +1,20 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: var(--blue-50);
+}
+
+:root {
+  --black: #3E4150;
+  --gray: #9B9CAE;
+  --blue: #3053DE;
+  --blue-100: #519BE9;
+  --blue-150: #D8E6FF;
+  --blue-50: #F3F6FF;
+  --white: #FFF;
+}

@@ -1,0 +1,31 @@
+.task{
+  background-color: var(--white);
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 3px 8px 0 rgb(116 129 141 / 10%);
+  margin-bottom: 20px;
+}
+
+.task__title{
+  color: var(--black);
+}
+
+.task__description{
+  color: var(--gray);
+  font-size: 16px;
+  margin-top: 2px;
+}
+
+.task__container{
+  margin-top: 5px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.task__btn{
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 5px 3px;
+  background-color: var(--white);
+}

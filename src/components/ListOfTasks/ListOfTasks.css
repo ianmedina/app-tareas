@@ -1,0 +1,10 @@
+.main{
+  padding: 0px 30px;
+  background-color: var(--blue-50);
+}
+
+.main__title{
+  padding: 20px 0px 20px 0px;
+  font-size: 24px;
+  color: var(--black);
+}
